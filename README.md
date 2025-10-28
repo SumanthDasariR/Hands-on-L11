@@ -116,5 +116,17 @@ The pipeline:
 ---
 
 ## Screenshots
+
+### CloudWatch Logs
+
 <img width="1920" height="1080" alt="Screenshot 2025-10-28 102257" src="https://github.com/user-attachments/assets/b2fe3d74-ad42-4786-9d7c-22ec32556196" />
 
+
+### IAM Role Configuration
+
+<img width="1920" height="1020" alt="Screenshot 2025-10-28 190536" src="https://github.com/user-attachments/assets/cfcd12bc-d3c6-4e0f-a2ea-35ff4d1d404c" />
+
+
+### S3 Buckets Configuration
+
+<img width="1920" height="1020" alt="Screenshot 2025-10-28 190616" src="https://github.com/user-attachments/assets/31faa029-84a9-40ad-86cf-99055aa9ffef" />
